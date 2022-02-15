@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/haru_normal_02.wav-639538526f202a5e7bb3ab72a0c344bc.sample"
+
+[deps]
+
+source_file="res://Haru/sounds/haru_normal_02.wav"
+dest_files=[ "res://.import/haru_normal_02.wav-639538526f202a5e7bb3ab72a0c344bc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

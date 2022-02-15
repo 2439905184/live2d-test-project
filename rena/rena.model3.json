@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "rena.moc3",
+		"Textures": [
+			"rena.4096/texture_00.png"
+		],
+		"Physics": "rena.physics3.json",
+		"DisplayInfo": "rena.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
